@@ -1,0 +1,28 @@
+h1
+	{
+		color:green;
+	}
+
+h2
+	{
+		color:brown;
+	}
+
+p
+	{
+		font-family: verdana;
+		font-size: 10px;
+	}
+
+body
+
+	{
+		background-image: url("images/bg-1.jpg");
+	}
+
+img
+	{
+		border-radius: 40px;
+		border-width: 5px;
+	}
+
